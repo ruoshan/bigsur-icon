@@ -2,7 +2,10 @@
 
 ```
 # 1. brew install graphicsmagick
+
 # 2. download the two files in the repo,
 #    run the script like this (change the file path accordingly):
 ./bigsur-icns.py /Application/{YOUR_APP}.app/Contents/Resources/{YOUR_APP_ICON_NAME}.icns
+
+# 3. the new icon is at your current working directory named `new-YOUR_APP_ICON_NAME.icns`
 ```
